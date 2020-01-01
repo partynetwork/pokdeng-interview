@@ -18,7 +18,8 @@
  
 ### Stack ในการใช้ทำโปรเจค 
 [Backend]
-ExpressJs หรือ FeathersJs, SocketIO, Mongodb
+ExpressJs หรือ FeathersJs, SocketIO, Mongodb 
+
 [Frontend] 
 ReactJs + Redux + SocketIO Client + Styled-component Less, CSS, AntD
 
