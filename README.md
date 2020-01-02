@@ -2,7 +2,7 @@
 โปรแกรม Pokdeng simulator
 
 ### Prototype XD
-... Link AdobeXD ...
+https://xd.adobe.com/view/dbc346b5-ba74-4206-6018-372d4463528f-adf2/grid
 
 ### Features
  - เริ่มโปรแกรมจะมีผู้เล่น 4 ขา (เจ้ามือ, ผู้เล่น 1, ผู้เล่น 2 และ ผู้เล่น 3)
