@@ -18,10 +18,10 @@ https://xd.adobe.com/view/dbc346b5-ba74-4206-6018-372d4463528f-adf2/grid
  
 ### Stack ในการใช้ทำโปรเจค 
 [Backend]
-FeathersJs หรือ ExpressJs+SocketIO, Mongodb 
+NodeJS
 
 [Frontend] 
-ReactJs + Redux + SocketIO Client + Styled-component CSS Less|SASS, AntDesign, SWR Axios ปลาๆๆ มี lib อะไรดีๆ ก็ใส่มา
+React, Angular, หรือ Javascript
 
 ### Interview Target
  - หากใช้ typescript ได้จะดีมาก
