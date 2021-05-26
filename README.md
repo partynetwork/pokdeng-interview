@@ -18,12 +18,12 @@ https://xd.adobe.com/view/dbc346b5-ba74-4206-6018-372d4463528f-adf2/grid
  
 ### Stack ในการใช้ทำโปรเจค 
 [Backend]
-NodeJS
+[NestJS Framework](https://nestjs.com/)
 
 [Frontend] 
-React, Angular, หรือ Javascript
+ReactJs, Tailwind
 
 ### Interview Target
- - หากใช้ typescript ได้จะดีมาก
+ - Frontend หากใช้ typescript ได้จะดีมาก
  - ทำ ui ให้ตรงตาม Prototype
  - ทำโปรแกรมให้สำเร็จที่สุดเท่าที่จะทำได้
